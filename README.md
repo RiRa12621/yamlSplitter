@@ -1,4 +1,7 @@
 # Yaml Splitter
+
+[![Go](https://github.com/RiRa12621/yamlSplitter/actions/workflows/go.yml/badge.svg)](https://github.com/RiRa12621/yamlSplitter/actions/workflows/go.yml)
+
 This utility is used to split concatenated kubernetes yamls into separate files.
 
 The use case is if you want to pull a yaml from upstream and integrate it into
